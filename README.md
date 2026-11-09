@@ -19,7 +19,7 @@ The project uses the IMDb Movie Reviews dataset containing 50,000 movie reviews.
 ## 📂 Dataset Information
 
 - **Dataset:** IMDb Dataset of 50K Movie Reviews
-- **Total Records:** 50,000
+- **Total Records:** 50000
 - **Features:** 2
 - **Input Feature:** Review
 - **Target Variable:** Sentiment
