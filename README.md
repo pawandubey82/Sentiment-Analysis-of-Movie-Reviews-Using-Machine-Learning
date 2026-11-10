@@ -6,11 +6,11 @@ This project focuses on analyzing movie reviews and classifying them into two se
 
 The project uses the IMDb Movie Reviews dataset containing 50,000 movie reviews. Natural Language Processing (NLP) and TF-IDF vectorization are used to convert text reviews into numerical features for machine learning models.
 
-## 🎯 Objectives
+## 🎯 Objectives  
 
 - Analyze movie reviews to understand customer opinions.
 - Perform data cleaning and preprocessing.
-- Explore positive and negative sentiment patterns using EDA.
+- Explore positive and negative sentiment patterns using Exploratory Data Analysis.
 - Apply Natural Language Processing techniques.
 - Train and compare multiple Machine Learning models.
 - Evaluate model performance using classification metrics.
