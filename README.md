@@ -40,7 +40,7 @@ The dataset contains movie reviews labelled as positive or negative.
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- NLP
+- Natural Language Processing 
 - TF-IDF Vectorization
 
 ## ⚙️ Project Workflow
