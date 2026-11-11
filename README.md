@@ -1,6 +1,6 @@
 # 🎬 Sentiment Analysis of Movie Reviews Using Machine Learning
 
-## 📌 Project Overview
+## 📌 Project Overview.
 
 This project focuses on analyzing movie reviews and classifying them into two sentiment categories: **Positive** and **Negative** using Machine Learning techniques.
 
