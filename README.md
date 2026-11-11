@@ -16,7 +16,7 @@ The project uses the IMDb Movie Reviews dataset containing 50,000 movie reviews.
 - Evaluate model performance using classification metrics.
 - Identify the best-performing model for sentiment prediction.
 
-## 📂 Dataset Information
+## 📂 Dataset Informations
 
 - **Dataset:** IMDb Dataset of 50K Movie Reviews
 - **Total Records:** 50,000
