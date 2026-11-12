@@ -63,7 +63,7 @@ The dataset contains movie reviews labelled as positive or negative.
 
 ### 3. Feature Extraction
 
-TF-IDF (Term Frequency–Inverse Document Frequency) is used to convert text reviews into numerical feature vectors.
+Term Frequency–Inverse Document Frequency is used to convert text reviews into numerical feature vectors.
 
 ### 4. Machine Learning Models.
 
