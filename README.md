@@ -43,9 +43,9 @@ The dataset contains movie reviews labelled as positive or negative.
 - NLP
 - TF-IDF Vectorization
 
-## ⚙️ Project Workflow
+## ⚙️ Project Workflow.
 
-### 1. Data Cleaning and Preprocessing
+### 1. Data Cleaning and Preprocessing.
 
 - Handling missing values.
 - Removing duplicate reviews.
@@ -65,7 +65,7 @@ The dataset contains movie reviews labelled as positive or negative.
 
 TF-IDF (Term Frequency–Inverse Document Frequency) is used to convert text reviews into numerical feature vectors.
 
-### 4. Machine Learning Models
+### 4. Machine Learning Models.
 
 Three machine learning algorithms are implemented:
 
@@ -75,7 +75,7 @@ Three machine learning algorithms are implemented:
 
 GridSearchCV with 3-fold cross-validation is used for hyperparameter tuning.
 
-### 5. Model Evaluation
+### 5. Model Evaluation.
 
 The models are evaluated using:
 
@@ -87,7 +87,7 @@ The models are evaluated using:
 - Confusion Matrix
 - ROC Curve
 
-## 📊 Model Performance
+## 📊 Model Performance.
 
 Best Cross-Validation F1 Scores obtained during hyperparameter tuning:
 
@@ -101,7 +101,7 @@ Best Cross-Validation F1 Scores obtained during hyperparameter tuning:
 
 *Note: These are cross-validation F1 scores, not final test-set scores.*
 
-## 📁 Project Structure
+## 📁 Project Structure.
 
 ```text
 Sentiment-Analysis-of-Movie-Reviews-Using-Machine-Learning/
@@ -116,7 +116,7 @@ Sentiment-Analysis-of-Movie-Reviews-Using-Machine-Learning/
 
 *Output files are included when generated and saved.*
 
-## 🚀 How to Run the Project
+## 🚀 How to Run the Project.....
 
 ### 1. Clone the repository
 
